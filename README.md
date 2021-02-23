@@ -27,3 +27,6 @@ Lastly, in our speaker circuit, we have used a band pass and high pass filter to
 
 ## State Machine Diagram
 ![state machine](https://github.com/aykutshahin/AudioRecorderPlayer/blob/main/docs/state_machine_diagram.jpg)
+
+## Numerical Works
+![numerical works](https://github.com/aykutshahin/AudioRecorderPlayer/blob/main/docs/numerical_works.png)
