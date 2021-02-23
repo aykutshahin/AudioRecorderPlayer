@@ -1,4 +1,4 @@
-# AudioRecorderPlayer
+# Audio Recorder/Player
 
 # INTRO
 In this project, we have aimed to create a digital voice recorder which can record voice that will be taken from microphone.
