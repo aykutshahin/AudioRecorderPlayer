@@ -1,8 +1,6 @@
 /*
 * lc512driver.h
-* Created for GTU MICROCONTROLLER CLASS PROJECT 3
 * Author: Aykut Sahin
-* Student ID:171024034
 *
 */
 

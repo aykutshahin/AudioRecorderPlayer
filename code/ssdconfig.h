@@ -2,8 +2,7 @@
  * ssdconfig.h
  *
  * Created by Aykut Sahin
- * Updated for GTU MICROCONTROLLER CLASS PROJECT 3
- * Student ID:171024034
+ * Updated for Audio Recorder & Player
  */
 
 #ifndef SSDCONFIG_H_
